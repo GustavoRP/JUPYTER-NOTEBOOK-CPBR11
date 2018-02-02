@@ -1,0 +1,1 @@
+This is a Deep Learning networking implemented using Keras to solve a competition problem https://www.kaggle.com/c/titanic
